@@ -35,7 +35,7 @@
 			<div class="h-3 w-3 rounded-full bg-cat-overlay0 transition-colors group-hover:bg-[#a6e3a1]"></div>
 		</button>
 	</div>
-	<p class="text-cat-rosewater not-sr-only mx-auto hidden font-semibold select-none lg:block">Kitty</p>
-	<p class="text-cat-rosewater not-sr-only mx-auto block font-semibold select-none lg:hidden">CyR1en</p>
+	<p class="text-cat-surface1 not-sr-only mx-auto hidden font-semibold select-none lg:block">Kitty</p>
+	<p class="text-cat-surface1 not-sr-only mx-auto block font-semibold select-none lg:hidden">CyR1en</p>
 	<Face />
 </header>

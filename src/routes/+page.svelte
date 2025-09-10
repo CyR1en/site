@@ -8,14 +8,17 @@
 />
 
 <section class="flex flex-grow flex-col items-center justify-center space-y-2.5 md:space-y-5">
-	<code class="text-cat-green block text-[2.4dvw] leading-[1.2] tracking-[-0.1em] whitespace-pre-wrap lg:text-[2.1dvh]">
+	<code class="text-cat-green block text-[4dvw] leading-[1.2] tracking-[-0.1em] whitespace-pre-wrap lg:text-[2.1dvh]">
 		{`
  /| ､
 (°､ ｡ 7
  |､  ~ヽ
  じしf_,)〳
+`}
+	</code>
 
-C Y R 1 E N`}
+	<code class="text-cat-mauve block text-[3dvw] leading-[1.2] tracking-[-0.1em] whitespace-pre-wrap lg:text-[1.5dvh]">
+		{`C Y R 1 E N`}
 	</code>
 
 	<p class="sr-only">Ethan Bacurio (CyR1en)</p>

@@ -24,7 +24,7 @@
 	{#each articles as article, i (i)}
 		<a
 			href={`/projects/${article.slug}` + (activeTechstack ? `?techstack=${activeTechstack}` : '')}
-			class="divide-ash-700 border-ash-700 divide-y overflow-hidden border select-none"
+			class="divide-cat-surface0 border-cat-surface0 divide-y overflow-hidden border select-none"
 			aria-label={`View details for project: ${article.title}`}
 			data-sveltekit-preload-code="eager"
 		>

@@ -5,8 +5,8 @@ poster: /projects/generic.webp
 techstack:
   - Java
 ---
-
-CommandPrompter is a powerful tool that enhances the command prompting experience and menu creation in your Minecraft server. With its customizable configuration options, CommandPrompter allows you to tailor the command prompting process to suit your server's specific requirements.
+CommandPrompter is a powerful plugin that expands your server's command execution capabilities by allowing users to define prompts within a command, enhancing interactivity and user experience. With CommandPrompter, you can create dynamic command menus that guide users through a series of prompts, making it easier for them to provide the necessary information for command execution.
+[[source](https://github.com/CyR1en/CommandPrompter)]
 
 ### Features:
 * **Easy to use** - designed to be used within minutes after installation.

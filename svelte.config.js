@@ -11,8 +11,8 @@ let highlighterPromise = null;
 function getSingletonHighlighter() {
 	if (!highlighterPromise) {
 		highlighterPromise = createHighlighter({
-			themes: ['poimandres'],
-			langs: ['javascript', 'typescript', 'bash', 'jsx', 'tsx', 'html']
+			themes: ['catppuccin-mocha'],
+			langs: ['javascript', 'typescript', 'bash', 'jsx', 'tsx', 'html', 'ini']
 		});
 	}
 	return highlighterPromise;
@@ -31,7 +31,7 @@ const config = {
 					const html = escapeSvelte(
 						highlighter.codeToHtml(code, {
 							lang,
-							theme: 'poimandres',
+							theme: 'catppuccin-mocha',
 							transformers: [
 								{
 									pre(node) {

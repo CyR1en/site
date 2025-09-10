@@ -29,6 +29,7 @@
 	--color-cat-overlay1: oklch(0.6176 0.0367 276);
 	--color-cat-overlay0: oklch(0.5497 0.0345 277.1);
 	--color-cat-surface2: oklch(0.4765 0.034 278.64);
+	--color-cat-surface1: oklch(0.4037 0.032 280.15);
 	--color-cat-surface0: oklch(0.324 0.0319 281.98);
 	--color-cat-base: oklch(0.2429 0.0304 283.91);
 	--color-cat-mantle: oklch(0.1828 0.0204 284.2);
