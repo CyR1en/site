@@ -44,7 +44,7 @@
 	"dependencies": {
 		"@fontsource/commit-mono": "^5.2.5",
 		"arctic": "^3.7.0",
-		"drizzle-orm": "^0.44.4",
+		"drizzle-orm": "^0.44.5",
 		"postgres": "^3.4.7",
 		"rehype-slug": "^6.0.0",
 		"remark-toc": "^9.0.0",
