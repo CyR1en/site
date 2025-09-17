@@ -7,8 +7,8 @@ description: 'Here is a list of my current hardware, software, and hosting servi
 const hardware = {
 	computers: [
 		{
-			name: 'Macbook Air M4',
-			desc: 'My portable arsenal that can take up any coding challenge on the go. Lightweight, powerful, and always ready for action.',
+			name: 'Macbook Pro M4',
+			desc: 'My portable arsenal that can take up any coding challenge or any photography edits on the go. Powerful and always ready for action.',
 			tags: ['Laptop']
 		},
 		{
@@ -59,8 +59,18 @@ const software = [
 		desc: 'My go-to text editor for coding. Highly customizable and efficient, it makes programming a breeze.',
 		tags: ['Editor']
 	},
+    {
+        name: 'Aerospace',
+        desc: 'My favorite tiling manager for macOS. It helps me keep my workspace organized and boosts my productivity.',
+        tags: ['Tiling Manager']
+    },
+    {
+        name: 'Komorebi',
+        desc: 'Tiling manager for my Windows machine. Not as good as Aerospace, but it gets the job done.',
+        tags: ['Tiling Manager']
+    },
 	{
-		name: 'Kitty',
+		name: 'Alacritty',
 		desc: 'A customizable and fast terminal emulator that makes my command line look as cool as it is powerful.',
 		tags: ['Terminal']
 	},

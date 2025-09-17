@@ -20,7 +20,7 @@
 		<h1 class="sr-only">Internal Server Error</h1>
 
 		<div class="text-center">
-			<p>Page not found</p>
+		<p>Page not found</p>
 			<p>Sorry, the page you are looking for could not be found.</p>
 		</div>
 	{:else}
